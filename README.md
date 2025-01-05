@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<hr>
+
+## branch 별 스터디 노트 정리
+
+1. project-1 : UI 따라만들기
+2. project-2 : 두 번째 프로젝트
